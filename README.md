@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @rezaanbarsooz79
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-rezaanbarsooz79/rezaanbarsooz79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a frontend developer
+and artificial intelligence student
+I love new things and learning
